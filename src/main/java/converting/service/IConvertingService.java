@@ -1,4 +1,4 @@
-package bai1.service;
+package converting.service;
 
 public interface IConvertingService {
     double calculate(double usd);

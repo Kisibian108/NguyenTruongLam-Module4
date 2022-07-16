@@ -1,6 +1,6 @@
-package bai1.controller;
+package converting.controller;
 
-import bai1.service.IConvertingService;
+import converting.service.IConvertingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
